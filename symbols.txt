@@ -1,0 +1,379 @@
+R9lA82OraNs AppContentInitialize sceAppContentInitialize Gen4, Gen5
+xnd8BJzAxmk AppContentGetAddcontInfoList sceAppContentGetAddcontInfoList Gen4, Gen5
+99b82IKXpH4 AppContentAppParamGetInt sceAppContentAppParamGetInt Gen4, Gen5
+JfEPXVxhFqA AudioOutInit sceAudioOutInit Gen4, Gen5
+ekNvsT22rsY AudioOutOpen sceAudioOutOpen Gen4, Gen5
+b+uAV89IlxE AudioOutSetVolume sceAudioOutSetVolume Gen4, Gen5
+w3PdaSTSwGE AudioOutOutputs sceAudioOutOutputs Gen4, Gen5
+QOQtbeDqsT4 AudioOutOutput sceAudioOutOutput Gen4, Gen5
+s1--uE9mBFw AudioOutClose sceAudioOutClose Gen4, Gen5
+GrQ9s4IrNaQ AudioOutGetPortState sceAudioOutGetPortState Gen4, Gen5
+5NE8Sjc7VC8 AudioInOpen sceAudioInOpen Gen4, Gen5
+LozEOU8+anM AudioInInput sceAudioInInput Gen4, Gen5
+U8IfNl6-Css VoiceQoSInit sceVoiceQoSInit Gen4, Gen5
+dl+4eHSzUu4 AjmInitialize sceAjmInitialize Gen4, Gen5
+Q3dyFuwGn64 AjmModuleRegister sceAjmModuleRegister Gen4, Gen5
+aS66RI0gGgo AvPlayerInit sceAvPlayerInit Gen4, Gen5
+KMcEa+rHsIo AvPlayerAddSource sceAvPlayerAddSource Gen4, Gen5
+OVths0xGfho AvPlayerSetLooping sceAvPlayerSetLooping Gen4, Gen5
+JdksQu8pNdQ AvPlayerGetVideoDataEx sceAvPlayerGetVideoDataEx Gen4, Gen5
+Wnp1OVcrZgk AvPlayerGetAudioData sceAvPlayerGetAudioData Gen4, Gen5
+UbQoYawOsfY AvPlayerIsActive sceAvPlayerIsActive Gen4, Gen5
+NkJwDzKmIlw AvPlayerClose sceAvPlayerClose Gen4, Gen5
+UmCvjSmuZIw Audio3dInitialize sceAudio3dInitialize Gen4, Gen5
+Im+jOoa5WAI Audio3dGetDefaultOpenParameters sceAudio3dGetDefaultOpenParameters Gen4, Gen5
+XeDDK0xJWQA Audio3dPortOpen sceAudio3dPortOpen Gen4, Gen5
+Yq9bfUQ0uJg Audio3dPortSetAttribute sceAudio3dPortSetAttribute Gen4, Gen5
+YaaDbDwKpFM Audio3dPortGetQueueLevel sceAudio3dPortGetQueueLevel Gen4, Gen5
+lw0qrdSjZt8 Audio3dPortAdvance sceAudio3dPortAdvance Gen4, Gen5
+VEVhZ9qd4ZY Audio3dPortPush sceAudio3dPortPush Gen4, Gen5
+mPYgU4oYpuY Ngs2SystemCreateWithAllocator sceNgs2SystemCreateWithAllocator Gen4, Gen5
+U546k6orxQo Ngs2RackCreateWithAllocator sceNgs2RackCreateWithAllocator Gen4, Gen5
+cLV4aiT9JpA Ngs2RackCreate sceNgs2RackCreate Gen4, Gen5
+0eFLVCfWVds Ngs2RackQueryBufferSize sceNgs2RackQueryBufferSize Gen4, Gen5
+MwmHz8pAdAo Ngs2RackGetVoiceHandle sceNgs2RackGetVoiceHandle Gen4, Gen5
+uu94irFOGpA Ngs2VoiceControl sceNgs2VoiceControl Gen4, Gen5
+-TOuuAQ-buE Ngs2VoiceGetState sceNgs2VoiceGetState Gen4, Gen5
+i0VnXM-C9fc Ngs2SystemRender sceNgs2SystemRender Gen4, Gen5
+NWtTN10cJzE LibcHeapGetTraceInfo sceLibcHeapGetTraceInfo Gen4, Gen5
+GMpvxPFW924 vprintf scevprintf Gen4, Gen5
+MUjC4lbHrK4 fflush scefflush Gen4, Gen5
+8zTFvBIAIN8 memset scememset Gen4, Gen5
+eLdDw6l0-bU snprintf scesnprintf Gen4, Gen5
+tsvEmnenz48 cxa_atexit scecxa_atexit Gen4, Gen5
+H2e8t5ScQGc cxa_finalize scecxa_finalize Gen4, Gen5
+-hn1tcVHq5Q LibcMspaceCreate sceLibcMspaceCreate Gen4, Gen5
+OJjm-QOIHlI LibcMspaceMalloc sceLibcMspaceMalloc Gen4, Gen5
+uMei1W9uyNo exit sceexit Gen4, Gen5
+bzQExy189ZI init_env sceinit_env Gen4, Gen5
+8G2LB+A3rzg atexit sceatexit Gen4, Gen5
+hcuQgD53UxM libc_printf scelibc_printf Gen4, Gen5
+YQ0navp+YIc puts sceputs Gen4, Gen5
+XKRegsFpEpk catchReturnFromMain scecatchReturnFromMain Gen4, Gen5
+xLoVJKHvRMU asan_init sceasan_init Gen4, Gen5
+GY2I-Okc7q0 asan_version_mismatch_check_v8 sceasan_version_mismatch_check_v8 Gen4, Gen5
+W+2HQAGdPuU asan_register_elf_globals sceasan_register_elf_globals Gen4, Gen5
+G9xSYlaNv+Y asan_before_dynamic_init sceasan_before_dynamic_init Gen4, Gen5
+z5Gy5T3tptE asan_after_dynamic_init sceasan_after_dynamic_init Gen4, Gen5
+g+Neom2EHO8 asan_memcpy sceasan_memcpy Gen4, Gen5
+q-hZf47nHhQ asan_memset sceasan_memset Gen4, Gen5
+EboejOQvLL4 RazorCpuIsCapturing sceRazorCpuIsCapturing Gen4, Gen5
+uoUpLGNkygk Gen4, Gen5DialogInitialize sceCommonDialogInitialize Gen4, Gen5
+KK3Bdg1RWK0 SaveDataDialogUpdateStatus sceSaveDataDialogUpdateStatus Gen4, Gen5
+YuH2FA7azqQ SaveDataDialogTerminate sceSaveDataDialogTerminate Gen4, Gen5
+hay1CfTmLyA SaveDataDialogProgressBarSetValue sceSaveDataDialogProgressBarSetValue Gen4, Gen5
+lbQKqsERhtE DiscMapIsRequestOnHDD sceDiscMapIsRequestOnHDD Gen4, Gen5
+fJgP+wqifno Unknown1 sceUnknown1 Gen4, Gen5
+ioKMruft1ek Unknown2 sceUnknown2 Gen4, Gen5
+gAhCn6UiU4Y GraphicsSetVsShader sceGraphicsSetVsShader Gen4
+V31V01UiScY GraphicsUpdateVsShader sceGraphicsUpdateVsShader Gen4
+bQVd5YzCal0 GraphicsSetPsShader sceGraphicsSetPsShader Gen4
+5uFKckiJYRM GraphicsSetPsShader350 sceGraphicsSetPsShader350 Gen4
+4MgRw-bVNQU GraphicsUpdatePsShader sceGraphicsUpdatePsShader Gen4
+mLVL7N7BVBg GraphicsUpdatePsShader350 sceGraphicsUpdatePsShader350 Gen4
+Kx-h-nWQJ8A GraphicsSetCsShaderWithModifier sceGraphicsSetCsShaderWithModifier Gen4
+HlTPoZ-oY7Y GraphicsDrawIndex sceGraphicsDrawIndex Gen4
+GGsn7jMTxw4 GraphicsDrawIndexAuto sceGraphicsDrawIndexAuto Gen4
+zwY0YV91TTI GraphicsSubmitCommandBuffers sceGraphicsSubmitCommandBuffers Gen4
+xbxNatawohc GraphicsSubmitAndFlipCommandBuffers sceGraphicsSubmitAndFlipCommandBuffers Gen4
+yvZ73uQUqrk GraphicsSubmitDone sceGraphicsSubmitDone Gen4
+b08AgtPlHPg GraphicsAreSubmitsAllowed sceGraphicsAreSubmitsAllowed Gen4
+iBt3Oe00Kvc GraphicsFlushMemory sceGraphicsFlushMemory Gen4
+b0xyllnVY-I GraphicsAddEqEvent sceGraphicsAddEqEvent Gen4
+PVT+fuoS9gU GraphicsDeleteEqEvent sceGraphicsDeleteEqEvent Gen4
+Idffwf3yh8s GraphicsDrawInitDefaultHardwareState sceGraphicsDrawInitDefaultHardwareState Gen4
+QhnyReteJ1M GraphicsDrawInitDefaultHardwareState175 sceGraphicsDrawInitDefaultHardwareState175 Gen4
+0H2vBYbTLHI GraphicsDrawInitDefaultHardwareState200 sceGraphicsDrawInitDefaultHardwareState200 Gen4
+yb2cRhagD1I GraphicsDrawInitDefaultHardwareState350 sceGraphicsDrawInitDefaultHardwareState350 Gen4
+nF6bFRUBRAU GraphicsDispatchInitDefaultHardwareState sceGraphicsDispatchInitDefaultHardwareState Gen4
+1qXLHIpROPE GraphicsInsertWaitFlipDone sceGraphicsInsertWaitFlipDone Gen4
+0BzLGljcwBo GraphicsDispatchDirect sceGraphicsDispatchDirect Gen4
+29oKvKXzEZo GraphicsMapComputeQueue sceGraphicsMapComputeQueue Gen4
+ArSg-TGinhk GraphicsUnmapComputeQueue sceGraphicsUnmapComputeQueue Gen4
+ffrNQOshows GraphicsComputeWaitOnAddress sceGraphicsComputeWaitOnAddress Gen4
+bX5IbRvECXk GraphicsDingDong sceGraphicsDingDong Gen4
+W1Etj-jlW7Y GraphicsInsertPushMarker sceGraphicsInsertPushMarker Gen4
+7qZVNgEu+SY GraphicsInsertPopMarker sceGraphicsInsertPopMarker Gen4
++AFvOEXrKJk GraphicsSetEmbeddedVsShader sceGraphicsSetEmbeddedVsShader Gen4
+ZFqKFl23aMc GraphicsRegisterOwner sceGraphicsRegisterOwner Gen4
+nvEwfYAImTs GraphicsRegisterResource sceGraphicsRegisterResource Gen4
+Fwvh++m9IQI GraphicsGetGpuCoreClockFrequency sceGraphicsGetGpuCoreClockFrequency Gen4
+jg33rEKLfVs GraphicsIsUserPaEnabled sceGraphicsIsUserPaEnabled Gen4
+ln33zjBrfjk GraphicsGetTheTessellationFactorRingBufferBaseAddress sceGraphicsGetTheTessellationFactorRingBufferBaseAddress Gen4
+23LRUSvYu1M GraphicsInit sceGraphicsInit Gen5
+2JtWUUiYBXs GraphicsGetRegisterDefaults2 sceGraphicsGetRegisterDefaults2 Gen5
+wRbq6ZjNop4 GraphicsGetRegisterDefaults2Internal sceGraphicsGetRegisterDefaults2Internal Gen5
+f3dg2CSgRKY GraphicsCreateShader sceGraphicsCreateShader Gen5
+vcmNN+AAXnY GraphicsSetCxRegIndirectPatchSetAddress sceGraphicsSetCxRegIndirectPatchSetAddress Gen5
+Qrj4c+61z4A GraphicsSetShRegIndirectPatchSetAddress sceGraphicsSetShRegIndirectPatchSetAddress Gen5
+6lNcCp+fxi4 GraphicsSetUcRegIndirectPatchSetAddress sceGraphicsSetUcRegIndirectPatchSetAddress Gen5
+d-6uF9sZDIU GraphicsSetCxRegIndirectPatchAddRegisters sceGraphicsSetCxRegIndirectPatchAddRegisters Gen5
+z2duB-hHQSM GraphicsSetShRegIndirectPatchAddRegisters sceGraphicsSetShRegIndirectPatchAddRegisters Gen5
+vRoArM9zaIk GraphicsSetUcRegIndirectPatchAddRegisters sceGraphicsSetUcRegIndirectPatchAddRegisters Gen5
+D9sr1xGUriE GraphicsCreatePrimState sceGraphicsCreatePrimState Gen5
+HV4j+E0MBHE GraphicsCreateInterpolantMapping sceGraphicsCreateInterpolantMapping Gen5
+V++UgBtQhn0 GraphicsGetDataPacketPayloadAddress sceGraphicsGetDataPacketPayloadAddress Gen5
+h9z6+0hEydk GraphicsSuspendPoint sceGraphicsSuspendPoint Gen5
+n2fD4A+pb+g GraphicsCbSetShRegisterRangeDirect sceGraphicsCbSetShRegisterRangeDirect Gen5
+wr23dPKyWc0 GraphicsCbReleaseMem sceGraphicsCbReleaseMem Gen5
+TRO721eVt4g GraphicsDcbResetQueue sceGraphicsDcbResetQueue Gen5
+MWiElSNE8j8 GraphicsDcbWaitUntilSafeForRendering sceGraphicsDcbWaitUntilSafeForRendering Gen5
+pFLArOT53+w GraphicsDcbSetShRegisterDirect sceGraphicsDcbSetShRegisterDirect Gen5
+ZvwO9euwYzc GraphicsDcbSetCxRegistersIndirect sceGraphicsDcbSetCxRegistersIndirect Gen5
+-HOOCn0JY48 GraphicsDcbSetShRegistersIndirect sceGraphicsDcbSetShRegistersIndirect Gen5
+hvUfkUIQcOE GraphicsDcbSetUcRegistersIndirect sceGraphicsDcbSetUcRegistersIndirect Gen5
+GIIW2J37e70 GraphicsDcbSetIndexSize sceGraphicsDcbSetIndexSize Gen5
+Yw0jKSqop+E GraphicsDcbDrawIndexAuto sceGraphicsDcbDrawIndexAuto Gen5
+aJf+j5yntiU GraphicsDcbEventWrite sceGraphicsDcbEventWrite Gen5
+57labkp+rSQ GraphicsDcbAcquireMem sceGraphicsDcbAcquireMem Gen5
+i1jyy49AjXU GraphicsDcbWriteData sceGraphicsDcbWriteData Gen5
+VmW0Tdpy420 GraphicsDcbWaitRegMem sceGraphicsDcbWaitRegMem Gen5
+YUeqkyT7mEQ GraphicsDcbSetFlip sceGraphicsDcbSetFlip Gen5
+UglJIZjGssM GraphicsDriverSubmitDcb sceGraphicsDriverSubmitDcb Gen4, Gen5
+lLMT9vJAck0 clock_gettime sceclock_gettime Gen4, Gen5
+yS8U2TGCe1A nanosleep scenanosleep Gen4, Gen5
+E6ao34wPw+U stat scestat Gen4, Gen5
+OxhIB8LB-PQ pthread_create scepthread_create Gen4, Gen5
+h9CcP3J0oVM pthread_join scepthread_join Gen4, Gen5
+7H0iTOciTLo pthread_mutex_lock scepthread_mutex_lock Gen4, Gen5
+K-jXhbt2gn4 pthread_mutex_trylock scepthread_mutex_trylock Gen4, Gen5
+2Z+PpY6CaJg pthread_mutex_unlock scepthread_mutex_unlock Gen4, Gen5
+ttHNfU+qDBU pthread_mutex_init scepthread_mutex_init Gen4, Gen5
+dQHWEsJtoE4 pthread_mutexattr_init scepthread_mutexattr_init Gen4, Gen5
+mDmgMOGVUqg pthread_mutexattr_settype scepthread_mutexattr_settype Gen4, Gen5
+HF7lK46xzjY pthread_mutexattr_destroy scepthread_mutexattr_destroy Gen4, Gen5
+ltCfaGr2JGE pthread_mutex_destroy scepthread_mutex_destroy Gen4, Gen5
+mkx2fVhNMsg pthread_cond_broadcast scepthread_cond_broadcast Gen4, Gen5
+Op8TBGY5KHg pthread_cond_wait scepthread_cond_wait Gen4, Gen5
+mqULNdimTn0 pthread_key_create scepthread_key_create Gen4, Gen5
+6BpEZuDT7YI pthread_key_delete scepthread_key_delete Gen4, Gen5
+WrOLvHU0yQM pthread_setspecific scepthread_setspecific Gen4, Gen5
+0-KXaS70xy4 pthread_getspecific scepthread_getspecific Gen4, Gen5
+1G3lF1Gg1k8 KernelOpen sceKernelOpen Gen4, Gen5
+UK2Tl2DWUns KernelClose sceKernelClose Gen4, Gen5
+Cg4srZ6TKbU KernelRead sceKernelRead Gen4, Gen5
+4wSze92BhLI KernelWrite sceKernelWrite Gen4, Gen5
++r3rMFwItV4 KernelPread sceKernelPread Gen4, Gen5
+nKWi-N2HBV4 KernelPwrite sceKernelPwrite Gen4, Gen5
+eV9wAD2riIA KernelStat sceKernelStat Gen4, Gen5
+kBwCPsYX-m4 KernelFstat sceKernelFstat Gen4, Gen5
+AUXVxWeJU-A KernelUnlink sceKernelUnlink Gen4, Gen5
+taRWhTJFTgE KernelGetdirentries sceKernelGetdirentries Gen4, Gen5
+oib76F-12fk KernelLseek sceKernelLseek Gen4, Gen5
+j2AIqSqJP0w KernelGetdents sceKernelGetdents Gen4, Gen5
+1-LFLmRFxxM KernelMkdir sceKernelMkdir Gen4, Gen5
+mL8NDH86iQI KernelMapNamedFlexibleMemory sceKernelMapNamedFlexibleMemory Gen4, Gen5
+IWIBBdTHit4 KernelMapFlexibleMemory sceKernelMapFlexibleMemory Gen4, Gen5
+cQke9UuBQOk KernelMunmap sceKernelMunmap Gen4, Gen5
+pO96TwzOm5E KernelGetDirectMemorySize sceKernelGetDirectMemorySize Gen4, Gen5
+rTXw65xmLIA KernelAllocateDirectMemory sceKernelAllocateDirectMemory Gen4, Gen5
+B+vc2AO2Zrc KernelAllocateMainDirectMemory sceKernelAllocateMainDirectMemory Gen4, Gen5
+L-Q3LEjIbgA KernelMapDirectMemory sceKernelMapDirectMemory Gen4, Gen5
+NcaWUxfMNIQ KernelMapNamedDirectMemory sceKernelMapNamedDirectMemory Gen4, Gen5
+MBuItvba6z8 KernelReleaseDirectMemory sceKernelReleaseDirectMemory Gen4, Gen5
+WFcfL2lzido KernelQueryMemoryProtection sceKernelQueryMemoryProtection Gen4, Gen5
+BHouLQzh0X0 KernelDirectMemoryQuery sceKernelDirectMemoryQuery Gen4, Gen5
+aNz11fnnzi4 KernelAvailableFlexibleMemorySize sceKernelAvailableFlexibleMemorySize Gen4, Gen5
+vSMAm3cxYTY KernelMprotect sceKernelMprotect Gen4, Gen5
+D0OdFMjp46I KernelCreateEqueue sceKernelCreateEqueue Gen4, Gen5
+jpFjmgAC5AE KernelDeleteEqueue sceKernelDeleteEqueue Gen4, Gen5
+fzyMKs9kim0 KernelWaitEqueue sceKernelWaitEqueue Gen4, Gen5
+vz+pg2zdopI KernelGetEventUserData sceKernelGetEventUserData Gen4, Gen5
+BpFoboUJoZU KernelCreateEventFlag sceKernelCreateEventFlag Gen4, Gen5
+JTvBflhYazQ KernelWaitEventFlag sceKernelWaitEventFlag Gen4, Gen5
+IOnSvHzqu6A KernelSetEventFlag sceKernelSetEventFlag Gen4, Gen5
+188x57JYp0g KernelCreateSema sceKernelCreateSema Gen4, Gen5
+R1Jvn8bSCW8 KernelDeleteSema sceKernelDeleteSema Gen4, Gen5
+Zxa0VhQVTsk KernelWaitSema sceKernelWaitSema Gen4, Gen5
+4czppHBiriw KernelSignalSema sceKernelSignalSema Gen4, Gen5
+9UK1vLZQft4 PthreadMutexLock scePthreadMutexLock Gen4, Gen5
+tn3VlD0hG60 PthreadMutexUnlock scePthreadMutexUnlock Gen4, Gen5
+2Of0f+3mhhE PthreadMutexDestroy scePthreadMutexDestroy Gen4, Gen5
+cmo1RIYva9o PthreadMutexInit scePthreadMutexInit Gen4, Gen5
+upoVrzMHFeE PthreadMutexTrylock scePthreadMutexTrylock Gen4, Gen5
+smWEktiyyG0 PthreadMutexattrDestroy scePthreadMutexattrDestroy Gen4, Gen5
+F8bUHwAG284 PthreadMutexattrInit scePthreadMutexattrInit Gen4, Gen5
+iMp8QpE+XO4 PthreadMutexattrSettype scePthreadMutexattrSettype Gen4, Gen5
+1FGvU0i9saQ PthreadMutexattrSetprotocol scePthreadMutexattrSetprotocol Gen4, Gen5
+aI+OeCz8xrQ PthreadSelf scePthreadSelf Gen4, Gen5
+6UgtwV+0zb4 PthreadCreate scePthreadCreate Gen4, Gen5
+3PtV6p3QNX4 PthreadEqual scePthreadEqual Gen4, Gen5
+onNY9Byn-W8 PthreadJoin scePthreadJoin Gen4, Gen5
+4qGrR6eoP9Y PthreadDetach scePthreadDetach Gen4, Gen5
+How7B8Oet6k PthreadGetname scePthreadGetname Gen4, Gen5
+bt3CTBKmGyI PthreadSetaffinity scePthreadSetaffinity Gen4, Gen5
+1tKyG7RlMJo PthreadGetprio scePthreadGetprio Gen4, Gen5
+W0Hpm2X0uPE PthreadSetprio scePthreadSetprio Gen4, Gen5
+T72hz6ffq08 PthreadYield scePthreadYield Gen4, Gen5
+EI-5-jlq2dE PthreadGetthreadid scePthreadGetthreadid Gen4, Gen5
+62KCwEMmzcM PthreadAttrDestroy scePthreadAttrDestroy Gen4, Gen5
+x1X76arYMxU PthreadAttrGet scePthreadAttrGet Gen4, Gen5
+8+s5BzZjxSg PthreadAttrGetaffinity scePthreadAttrGetaffinity Gen4, Gen5
+nsYoNRywwNg PthreadAttrInit scePthreadAttrInit Gen4, Gen5
+JaRMy+QcpeU PthreadAttrGetdetachstate scePthreadAttrGetdetachstate Gen4, Gen5
+Ru36fiTtJzA PthreadAttrGetstackaddr scePthreadAttrGetstackaddr Gen4, Gen5
+-fA+7ZlGDQs PthreadAttrGetstacksize scePthreadAttrGetstacksize Gen4, Gen5
+txHtngJ+eyc PthreadAttrGetguardsize scePthreadAttrGetguardsize Gen4, Gen5
+UTXzJbWhhTE PthreadAttrSetstacksize scePthreadAttrSetstacksize Gen4, Gen5
+-Wreprtu0Qs PthreadAttrSetdetachstate scePthreadAttrSetdetachstate Gen4, Gen5
+El+cQ20DynU PthreadAttrSetguardsize scePthreadAttrSetguardsize Gen4, Gen5
+eXbUSpEaTsA PthreadAttrSetinheritsched scePthreadAttrSetinheritsched Gen4, Gen5
+DzES9hQF4f4 PthreadAttrSetschedparam scePthreadAttrSetschedparam Gen4, Gen5
+4+h9EzwKF4I PthreadAttrSetschedpolicy scePthreadAttrSetschedpolicy Gen4, Gen5
+3qxgM4ezETA PthreadAttrSetaffinity scePthreadAttrSetaffinity Gen4, Gen5
+6ULAa0fq4jA PthreadRwlockInit scePthreadRwlockInit Gen4, Gen5
+BB+kb08Tl9A PthreadRwlockDestroy scePthreadRwlockDestroy Gen4, Gen5
+Ox9i0c7L5w0 PthreadRwlockRdlock scePthreadRwlockRdlock Gen4, Gen5
++L98PIbGttk PthreadRwlockUnlock scePthreadRwlockUnlock Gen4, Gen5
+mqdNorrB+gI PthreadRwlockWrlock scePthreadRwlockWrlock Gen4, Gen5
+2Tb92quprl0 PthreadCondInit scePthreadCondInit Gen4, Gen5
+g+PZd2hiacg PthreadCondDestroy scePthreadCondDestroy Gen4, Gen5
+WKAXJ4XBPQ4 PthreadCondWait scePthreadCondWait Gen4, Gen5
+JGgj7Uvrl+A PthreadCondBroadcast scePthreadCondBroadcast Gen4, Gen5
+kDh-NfxgMtE PthreadCondSignal scePthreadCondSignal Gen4, Gen5
+BmMjYxmew1w PthreadCondTimedwait scePthreadCondTimedwait Gen4, Gen5
+m5-2bsNfv7s PthreadCondattrInit scePthreadCondattrInit Gen4, Gen5
+waPcxYiR3WA PthreadCondattrDestroy scePthreadCondattrDestroy Gen4, Gen5
+QBi7HCK03hw KernelClockGettime sceKernelClockGettime Gen4, Gen5
+ejekcaNQNq0 KernelGettimeofday sceKernelGettimeofday Gen4, Gen5
+-2IRUCO--PM KernelReadTsc sceKernelReadTsc Gen4, Gen5
+1j3S3n-tTW4 KernelGetTscFrequency sceKernelGetTscFrequency Gen4, Gen5
+4J2sUJmuHZQ KernelGetProcessTime sceKernelGetProcessTime Gen4, Gen5
+BNowx2l588E KernelGetProcessTimeCounterFrequency sceKernelGetProcessTimeCounterFrequency Gen4, Gen5
+fgxnMeTNUtY KernelGetProcessTimeCounter sceKernelGetProcessTimeCounter Gen4, Gen5
+1jfXLRVzisc KernelUsleep sceKernelUsleep Gen4, Gen5
+6c3rCVE-fTU open sceopen Gen4, Gen5
+6xVpy0Fdq+I sigprocmask scesigprocmask Gen4, Gen5
+6Z83sYWFlA8 exit sceexit Gen4, Gen5
+8OnWXlgQlvo KernelRtldThreadAtexitDecrement sceKernelRtldThreadAtexitDecrement Gen4, Gen5
+959qrazPIrg KernelGetProcParam sceKernelGetProcParam Gen4, Gen5
+9BcDykPmo1I get_error_addr sceget_error_addr Gen4, Gen5
+bnZxYgAFeA0 KernelGetSanitizerNewReplaceExternal sceKernelGetSanitizerNewReplaceExternal Gen4, Gen5
+ca7v6Cxulzs KernelSetGPO sceKernelSetGPO Gen4, Gen5
+DRuBt2pvICk read sceread Gen4, Gen5
+f7KBOafysXo KernelGetModuleInfoFromAddr sceKernelGetModuleInfoFromAddr Gen4, Gen5
+Fjc4-n1+y2g elf_phdr_match_addr sceelf_phdr_match_addr Gen4, Gen5
+FxVZqBAA7ks write scewrite Gen4, Gen5
+kbw4UHHSYy0 pthread_cxa_finalize scepthread_cxa_finalize Gen4, Gen5
+NNtFaKJbPt0 close sceclose Gen4, Gen5
+OMDRKKAZ8I4 KernelDebugRaiseException sceKernelDebugRaiseException Gen4, Gen5
+Ou3iL1abvng stack_chk_fail scestack_chk_fail Gen4, Gen5
+p5EcQeEeJAE KernelRtldSetApplicationHeapAPI sceKernelRtldSetApplicationHeapAPI Gen4, Gen5
+pB-yGZ2nQ9o KernelSetThreadAtexitCount sceKernelSetThreadAtexitCount Gen4, Gen5
+py6L8jiVAN8 KernelGetSanitizerMallocReplaceExternal sceKernelGetSanitizerMallocReplaceExternal Gen4, Gen5
+QKd0qM58Qes KernelStopUnloadModule sceKernelStopUnloadModule Gen4, Gen5
+rNhWz+lvOMU KernelSetThreadDtors sceKernelSetThreadDtors Gen4, Gen5
+Tz4RNUCBbGI KernelRtldThreadAtexitIncrement sceKernelRtldThreadAtexitIncrement Gen4, Gen5
+vNe1w4diLCs tls_get_addr scetls_get_addr Gen4, Gen5
+WhCc1w3EhSI KernelSetThreadAtexitReport sceKernelSetThreadAtexitReport Gen4, Gen5
+WslcK1FQcGI KernelIsNeoMode sceKernelIsNeoMode Gen4, Gen5
+wzvqT4UqKX8 KernelLoadStartModule sceKernelLoadStartModule Gen4, Gen5
+Xjoosiw+XPI KernelUuidCreate sceKernelUuidCreate Gen4, Gen5
+zE-wXIZjLoM KernelDebugRaiseExceptionOnReleaseMode sceKernelDebugRaiseExceptionOnReleaseMode Gen4, Gen5
+Nlev7Lg8k3A NetInit sceNetInit Gen4, Gen5
+dgJBaeJnGpo NetPoolCreate sceNetPoolCreate Gen4, Gen5
+8Kcp5d-q1Uo NetInetPton sceNetInetPton Gen4, Gen5
+v6M4txecCuo NetEtherNtostr sceNetEtherNtostr Gen4, Gen5
+6Oc0bLsIYe0 NetGetMacAddress sceNetGetMacAddress Gen4, Gen5
+hdpVEUDFW3s SslInit sceSslInit Gen4, Gen5
+A9cVMUtEp4Y HttpInit sceHttpInit Gen4, Gen5
+0gYjPTR-6cY HttpCreateTemplate sceHttpCreateTemplate Gen4, Gen5
+4I8vEpuEhZ8 HttpDeleteTemplate sceHttpDeleteTemplate Gen4, Gen5
+s2-NPIvz+iA HttpSetNonblock sceHttpSetNonblock Gen4, Gen5
+htyBOoWeS58 HttpsSetSslCallback sceHttpsSetSslCallback Gen4, Gen5
+mSQCxzWTwVI HttpsDisableOption sceHttpsDisableOption Gen4, Gen5
+6381dWF+xsQ HttpCreateEpoll sceHttpCreateEpoll Gen4, Gen5
+wYhXVfS2Et4 HttpDestroyEpoll sceHttpDestroyEpoll Gen4, Gen5
+-xm7kZQNpHI HttpSetEpoll sceHttpSetEpoll Gen4, Gen5
+59tL1AQBb8U HttpUnsetEpoll sceHttpUnsetEpoll Gen4, Gen5
+qgxDBjorUxs HttpCreateConnectionWithURL sceHttpCreateConnectionWithURL Gen4, Gen5
+P6A3ytpsiYc HttpDeleteConnection sceHttpDeleteConnection Gen4, Gen5
+Cnp77podkCU HttpCreateRequestWithURL2 sceHttpCreateRequestWithURL2 Gen4, Gen5
+qe7oZ+v4PWA HttpDeleteRequest sceHttpDeleteRequest Gen4, Gen5
+EY28T2bkN7k HttpAddRequestHeader sceHttpAddRequestHeader Gen4, Gen5
+1e2BNwI-XzE HttpSendRequest sceHttpSendRequest Gen4, Gen5
+Tc-hAYDKtQc HttpSetResolveTimeOut sceHttpSetResolveTimeOut Gen4, Gen5
+K1d1LqZRQHQ HttpSetResolveRetry sceHttpSetResolveRetry Gen4, Gen5
+0S9tTH0uqTU HttpSetConnectTimeOut sceHttpSetConnectTimeOut Gen4, Gen5
+xegFfZKBVlw HttpSetSendTimeOut sceHttpSetSendTimeOut Gen4, Gen5
+yigr4V0-HTM HttpSetRecvTimeOut sceHttpSetRecvTimeOut Gen4, Gen5
+T-mGo9f3Pu4 HttpSetAutoRedirect sceHttpSetAutoRedirect Gen4, Gen5
+qFg2SuyTJJY HttpSetAuthEnabled sceHttpSetAuthEnabled Gen4, Gen5
+gky0+oaNM4k NetCtlInit sceNetCtlInit Gen4, Gen5
+JO4yuTuMoKI NetCtlGetNatInfo sceNetCtlGetNatInfo Gen4, Gen5
+iQw3iQPhvUQ NetCtlCheckCallback sceNetCtlCheckCallback Gen4, Gen5
+uBPlr0lbuiI NetCtlGetState sceNetCtlGetState Gen4, Gen5
+UJ+Z7Q+4ck0 NetCtlRegisterCallback sceNetCtlRegisterCallback Gen4, Gen5
+obuxdTiwkF8 NetCtlGetInfo sceNetCtlGetInfo Gen4, Gen5
+3Zl8BePTh9Y NpCheckCallback sceNpCheckCallback Gen4, Gen5
+Ec63y59l9tw NpSetNpTitleId sceNpSetNpTitleId Gen4, Gen5
+A2CQ3kgSopQ NpSetContentRestriction sceNpSetContentRestriction Gen4, Gen5
+VfRSmPmj8Q8 NpRegisterStateCallback sceNpRegisterStateCallback Gen4, Gen5
+uFJpaKNBAj4 NpRegisterGamePresenceCallback sceNpRegisterGamePresenceCallback Gen4, Gen5
+GImICnh+boA NpRegisterPlusEventCallback sceNpRegisterPlusEventCallback Gen4, Gen5
+hw5KNqAAels NpRegisterNpReachabilityStateCallback sceNpRegisterNpReachabilityStateCallback Gen4, Gen5
+p-o74CnoNzY NpGetNpId sceNpGetNpId Gen4, Gen5
+XDncXQIJUSk NpGetOnlineId sceNpGetOnlineId Gen4, Gen5
+eiqMCt9UshI NpCreateAsyncRequest sceNpCreateAsyncRequest Gen4, Gen5
+S7QTn72PrDw NpDeleteRequest sceNpDeleteRequest Gen4, Gen5
+2rsFmlGWleQ NpCheckNpAvailability sceNpCheckNpAvailability Gen4, Gen5
+uqcPJLWL08M NpPollAsync sceNpPollAsync Gen4, Gen5
+eQH7nWPcAgc NpGetState sceNpGetState Gen4, Gen5
+0c7HbXRKUt4 NpRegisterStateCallbackForToolkit sceNpRegisterStateCallbackForToolkit Gen4, Gen5
+JELHf4xPufo NpCheckCallbackForLib sceNpCheckCallbackForLib Gen4, Gen5
+q7U6tEAQf7c NpTrophyCreateHandle sceNpTrophyCreateHandle Gen4, Gen5
+XbkjbobZlCY NpTrophyCreateContext sceNpTrophyCreateContext Gen4, Gen5
+TJCAxto9SEU NpTrophyRegisterContext sceNpTrophyRegisterContext Gen4, Gen5
+GNcF4oidY0Y NpTrophyDestroyHandle sceNpTrophyDestroyHandle Gen4, Gen5
+LHuSmO3SLd8 NpTrophyGetTrophyUnlockState sceNpTrophyGetTrophyUnlockState Gen4, Gen5
+G3AnLNdRBjE NpWebApiInitialize sceNpWebApiInitialize Gen4, Gen5
+hv1luiJrqQM PadInit scePadInit Gen4, Gen5
+xk0AcarP3V4 PadOpen scePadOpen Gen4, Gen5
+clVvL4ZDntw PadSetMotionSensorState scePadSetMotionSensorState Gen4, Gen5
+gjP9-KQzoUk PadGetControllerInformation scePadGetControllerInformation Gen4, Gen5
+YndgXqQVV7c PadReadState scePadReadState Gen4, Gen5
+q1cHNfGycLI PadRead scePadRead Gen4, Gen5
+yFVnOdGxvZY PadSetVibration scePadSetVibration Gen4, Gen5
+DscD1i9HX1w PadResetLightBar scePadResetLightBar Gen4, Gen5
+RR4novUEENY PadSetLightBar scePadSetLightBar Gen4, Gen5
+ts6GlZOKRrE PlayGoInitialize scePlayGoInitialize Gen4, Gen5
+MPe0EeBGM-E PlayGoTerminate scePlayGoTerminate Gen4, Gen5
+M1Gma1ocrGE PlayGoOpen scePlayGoOpen Gen4, Gen5
+Uco1I0dlDi8 PlayGoClose scePlayGoClose Gen4, Gen5
+uWIYLFkkwqk PlayGoGetLocus scePlayGoGetLocus Gen4, Gen5
+ZkZhskCPXFw SaveDataInitialize sceSaveDataInitialize Gen4, Gen5
+l1NmDeDpNGU SaveDataInitialize2 sceSaveDataInitialize2 Gen4, Gen5
+TywrFKCoLGY SaveDataInitialize3 sceSaveDataInitialize3 Gen4, Gen5
+32HQAQdwM2o SaveDataMount sceSaveDataMount Gen4, Gen5
+0z45PIH+SNI SaveDataMount2 sceSaveDataMount2 Gen4, Gen5
+BMR4F-Uek3E SaveDataUmount sceSaveDataUmount Gen4, Gen5
+85zul--eGXs SaveDataSetParam sceSaveDataSetParam Gen4, Gen5
+65VH0Qaaz6s SaveDataGetMountInfo sceSaveDataGetMountInfo Gen4, Gen5
+c88Yy54Mx0w SaveDataSaveIcon sceSaveDataSaveIcon Gen4, Gen5
+eR2bZFAAU0Q SysmoduleUnloadModule sceSysmoduleUnloadModule Gen4, Gen5
+hHrGoGoNf+s SysmoduleLoadModuleInternalWithArg sceSysmoduleLoadModuleInternalWithArg Gen4, Gen5
+g8cM39EUZ6o SysmoduleLoadModule sceSysmoduleLoadModule Gen4, Gen5
+fMP5NHUOaMk SysmoduleIsLoaded sceSysmoduleIsLoaded Gen4, Gen5
+Vo5V8KAwCmk SystemServiceHideSplashScreen sceSystemServiceHideSplashScreen Gen4, Gen5
+fZo48un7LK4 SystemServiceParamGetInt sceSystemServiceParamGetInt Gen4, Gen5
+rPo6tV8D9bM SystemServiceGetStatus sceSystemServiceGetStatus Gen4, Gen5
+1n37q1Bvc5Y SystemServiceGetDisplaySafeAreaInfo sceSystemServiceGetDisplaySafeAreaInfo Gen4, Gen5
+j3YMu1MVNNo UserServiceInitialize sceUserServiceInitialize Gen4, Gen5
+CdWp0oHWGr0 UserServiceGetInitialUser sceUserServiceGetInitialUser Gen4, Gen5
+yH17Q6NWtVg UserServiceGetEvent sceUserServiceGetEvent Gen4, Gen5
+fPhymKNvK-A UserServiceGetLoginUserIdList sceUserServiceGetLoginUserIdList Gen4, Gen5
+1xxcMiGu2fo UserServiceGetUserName sceUserServiceGetUserName Gen4, Gen5
+Up36PTk687E VideoOutOpen sceVideoOutOpen Gen4, Gen5
+uquVH4-Du78 VideoOutClose sceVideoOutClose Gen4
+6kPnj51T62Y VideoOutGetResolutionStatus sceVideoOutGetResolutionStatus Gen4
+i6-sR91Wt-4 VideoOutSetBufferAttribute sceVideoOutSetBufferAttribute Gen4
+CBiu4mCE1DA VideoOutSetFlipRate sceVideoOutSetFlipRate Gen4
+HXzjK9yI30k VideoOutAddFlipEvent sceVideoOutAddFlipEvent Gen4
+Xru92wHJRmg VideoOutAddVblankEvent sceVideoOutAddVblankEvent Gen4
+w3BY+tAEiQY VideoOutRegisterBuffers sceVideoOutRegisterBuffers Gen4
+U46NwOiJpys VideoOutSubmitFlip sceVideoOutSubmitFlip Gen4
+SbU3dwp80lQ VideoOutGetFlipStatus sceVideoOutGetFlipStatus Gen4
+1FZBKy8HeNU VideoOutGetVblankStatus sceVideoOutGetVblankStatus Gen4
+MTxxrOCeSig VideoOutSetWindowModeMargins sceVideoOutSetWindowModeMargins Gen4
+PjS5uASwcV8 VideoOutSetBufferAttribute2 sceVideoOutSetBufferAttribute2 Gen5
+rKBUtgRrtbk VideoOutRegisterBuffers2 sceVideoOutRegisterBuffers2 Gen5
